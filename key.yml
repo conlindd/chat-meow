@@ -1,0 +1,7 @@
+BAIDU_KEY:
+  - "Hxxxxxxxxxxx5p"           # 填写百度识别网页上申请的appkey
+  - "yhxxxxxxxxxxxxxxxxxlkRt"   # 填写百度识别网页上申请的APP SECRET
+  - "1sdxxxxxxxxxxxxx43"                       # 填写一个CUID 只是用来区分不同应用 随意填写
+
+OPENAI_API_KEY: "sk-9xxxxxxxxxxxxxxxxxxxxxxxxWqURN
+" # openai的apikey
