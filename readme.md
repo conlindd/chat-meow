@@ -1,15 +1,3 @@
----
-title: ChatGpt随身WiFi智能音箱之制作ChatGpt智能音箱
-date: 2023-5-29 11:59:21
-tags: [ChatGpt,Open Ai,随身wifi,音响]
-categories: 
-	- ai
-	- ChatGpt
-	- 随身WiFi
-	- 音响
-permalink: /articke/chatgpt-suishenwifi-yinxiang4.html
----
-
 ### +.前期准备看博客:
 
 http://jiuhuai.top
